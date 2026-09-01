@@ -1,0 +1,23 @@
+# Git and version control
+.git
+.gitignore
+
+# Virtual environment and package bloat
+langchain/
+venv/
+.venv/
+env/
+.env
+
+# Python caches and bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
